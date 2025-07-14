@@ -41,3 +41,9 @@ This project showcases a **Hero section** with strong branding and call-to-actio
  │   ├── About.js
  │   ├── HowItWorks.js
  │   └── Testimonial.js
+
+
+
+<img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/517990d5-385d-4246-82f6-69d29d9d0b2f" />
+
+<img width="1897" height="922" alt="image" src="https://github.com/user-attachments/assets/e3fa4768-d5e3-4bc2-87ac-3755d562ab64" />
